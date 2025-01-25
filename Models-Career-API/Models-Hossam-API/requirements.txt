@@ -1,4 +1,4 @@
-xstreamlit
+streamlit
 together
 pdfplumber
 python-dotenv
